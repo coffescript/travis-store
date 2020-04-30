@@ -1,2 +1,2 @@
-# travis-store
-Travis Store CI/CD
+# platzi-store
+Curso de Pruebas unitarias con Jest
